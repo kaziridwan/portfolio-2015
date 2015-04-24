@@ -1,10 +1,10 @@
 ---
-layout: article
-title: "This is the first post"
+layout: article	
+	title: "This is the first post"
 date: 2015-04-24 08:33:00
 author: Admin
 categories:
-- blog
+- article
 img: post03.jpg
 thumb: thumb03.jpg
 ---
