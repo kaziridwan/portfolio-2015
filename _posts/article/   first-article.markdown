@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "This is the first post"
 date: 2015-04-24 08:33:00
 author: Admin
