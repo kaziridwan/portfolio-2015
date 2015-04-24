@@ -9,10 +9,11 @@ img: post03.jpg
 thumb: thumb03.jpg
 ---
 
-<b>T</b>is is the first post. <!--more-->
+<b>T</b>his is the first post. <!--more-->
 Just checking if it works
 this is the package I had to use
 ![first image](/assets/img/blog/first.png)
+
 this is a code block
 				function test(){
 					echo "dig this";
