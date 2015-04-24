@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
+title: Kazi Ridwan
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://kaziridwan.github.io"
 
 # Build settings
 markdown: kramdown
@@ -27,24 +27,23 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: dribbble
-    url:
+    url: https://dribbble.com/kaziridwan
   - title: facebook
-    url:
+    url: https://facebook.com/ridwanshere
   - title: twitter
-    url: 
-  - title: instagram
-    url: 
-  - title: tumblr
-    url: 
+    url: https://twitter.com/ridwanshere
+  # - title: instagram
+  #   url: 
+  # - title: tumblr
+  #   url: 
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+    - Dhaka,
+    - Bangladesh
+email: ridwan.arefin@gmail.com
+tel: +880 1683-24-25-66
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
