@@ -1,6 +1,6 @@
 /*removing navbar border*/
 .navbar-default .navbar-toggle {
-   border-color: none; 
+   border: none; 
 }
 .navbar-toggle {
    border-radius: 0px; 
