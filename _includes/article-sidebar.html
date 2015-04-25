@@ -11,15 +11,6 @@
         <p>
             <p class="rss-subscribe">Subscribe to this blog <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>.</p>
         </p>
-    <div class="spacing"></div>
-    <h4>Categories</h4>
-    <div class="hline"></div>
-    {% for category in site.categories %}{% unless category.first == "article"%}
-        <p>
-            <a href="{{ '/category/#'  | prepend: site.baseurl  }}{{ category | first }}"><i class="fa fa-angle-right"></i> {{ category | first | capitalize }}</a>
-            <span class="badge badge-theme pull-right">{{ category | last | size }}</span>
-        </p>
-    {% endunless %}{% endfor %}
 
     <div class="spacing"></div>
 
@@ -34,6 +25,17 @@
             </li>
             {% endfor %} 
         </ul>
+        
+    <div class="spacing"></div>
+
+    <h4>Categories</h4>
+    <div class="hline"></div>
+    {% for category in site.categories %}{% unless category.first == "article"%}
+        <p>
+            <a href="{{ '/category/#'  | prepend: site.baseurl  }}{{ category | first }}"><i class="fa fa-angle-right"></i> {{ category | first | capitalize }}</a>
+            <span class="badge badge-theme pull-right">{{ category | last | size }}</span>
+        </p>
+    {% endunless %}{% endfor %}
 
     <div class="spacing"></div>
 
