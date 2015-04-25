@@ -32,7 +32,7 @@
     <div class="hline"></div>
     {% for category in site.categories %}{% if category.first == "article"%}
         <p>
-            <a href="{{ '/category/#'  | prepend: site.baseurl  }}{{ category | first }}"><i class="fa fa-angle-right"></i> {{ category | first | capitalize }}</a>
+            <a href="{{ '/article/category/#'  | prepend: site.baseurl  }}{{ category | first }}"><i class="fa fa-angle-right"></i> {{ category | first | capitalize }}</a>
             <span class="badge badge-theme pull-right">{{ category | last | size }}</span>
         </p>
     {% endif %}{% endfor %}
