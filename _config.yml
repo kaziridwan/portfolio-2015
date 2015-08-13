@@ -89,14 +89,14 @@ members:
     
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: telenor
+  - name: Telenor Group
     img: client01.png
-  - name: Code is Poetry
+  - name: DIGI
     img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
+  - name: GoFit Light
+    img: client03.jpg
+  - name: Fe y Alegria
+    img: client04.jpg
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "I am an app developer, helping you to make your app from dreams to reality."
