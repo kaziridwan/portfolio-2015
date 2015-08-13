@@ -89,7 +89,7 @@ members:
     
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: dribbble
+  - name: telenor
     img: client01.png
   - name: Code is Poetry
     img: client02.png
@@ -99,10 +99,10 @@ clients:
     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "I am an app developer, helping you to make your app from dreams to reality."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+    message: "He has a strong sense of responsibility"
+    author: Yasuyuki Nakamura
+    position: Technology Consultant - Hewlett-Packard
