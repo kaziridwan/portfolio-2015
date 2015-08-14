@@ -7,7 +7,7 @@ categories:
 img: 03_BanglaRadioNew.jpg
 thumb: 03_BanglaRadioNew.jpg
 carousel:
-- 03_banglamusic-01.jpg
+- 03_banglaradio-01.jpg
 client: DIGI
 website: Not available publicly
 ---
