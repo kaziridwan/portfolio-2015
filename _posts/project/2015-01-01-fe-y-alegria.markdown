@@ -7,9 +7,8 @@ categories:
 img: 01_FeYAlegria.jpg
 thumb: 01_FeYAlegria.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- 01_fya-01.jpg
+- 01_fya-02.jpg
 client: Fe y Alegria
 website: http://feyalegria.us
 ---

@@ -5,11 +5,10 @@ date:   2014-03-15 00:00:00
 categories:
 - project
 img: 04_GoFitLight.jpg
-thumb: thumb02.jpg
+thumb: 04_GoFitLight.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- 04_gfl-01.jpg
+
 client: GoFIt Light
 website: Not available publicly
 ---

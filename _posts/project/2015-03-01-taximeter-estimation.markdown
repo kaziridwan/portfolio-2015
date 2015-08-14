@@ -7,9 +7,7 @@ categories:
 img: 02_TaxiTrip.jpg
 thumb: 02_TaxiTrip.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- 02_taxitrip-01.jpg
 client: Taxitrip Tokyo
 website: http://taximeter-estimation.appspot.com
 ---

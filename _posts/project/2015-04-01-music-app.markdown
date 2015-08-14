@@ -7,9 +7,7 @@ categories:
 img: 05_BanglaMusic.jpg
 thumb: 05_BanglaMusic.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- 05_banglamusic-01.jpg
 client: Lyl2u Malaysia
 website: Not available publicly
 ---
