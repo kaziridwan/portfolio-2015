@@ -4,8 +4,8 @@ title:  "Music App"
 date:   2015-04-01 00:00:00
 categories:
 - project
-img: portfolio_05.jpg
-thumb: thumb02.jpg
+img: 05_BanglaMusic.jpg
+thumb: 05_BanglaMusic.jpg
 carousel:
 - single01.jpg
 - single02.jpg

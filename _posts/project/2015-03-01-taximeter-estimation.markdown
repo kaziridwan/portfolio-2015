@@ -4,13 +4,13 @@ title:  "Taximeter Estimation"
 date:   2015-03-01 00:00:00
 categories:
 - project
-img: portfolio_02.jpg
-thumb: thumb02.jpg
+img: 02_TaxiTrip.jpg
+thumb: 02_TaxiTrip.jpg
 carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-client: Yasuyuki Nakamura
+client: Taxitrip Tokyo
 website: http://taximeter-estimation.appspot.com
 ---
 ####Taximeter estimation

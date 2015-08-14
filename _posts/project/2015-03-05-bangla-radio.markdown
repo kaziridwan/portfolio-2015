@@ -4,8 +4,8 @@ title:  "Bangla Radio"
 date:   2015-03-05 00:00:00
 categories:
 - project
-img: portfolio_03.jpg
-thumb: thumb02.jpg
+img: 03_BanglaRadio.jpg
+thumb: 03_BanglaRadio.jpg
 carousel:
 - single01.jpg
 - single02.jpg
