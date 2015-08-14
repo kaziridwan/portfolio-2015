@@ -4,7 +4,7 @@ title:  "Fe y Alegria : Wordpress Web App"
 date:   2015-01-01 00:00:00
 categories:
 - project
-something:
+project-tags:
 - wordpress
 - bootstrap
 - paypal
