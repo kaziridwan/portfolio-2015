@@ -7,8 +7,6 @@ categories:
 tags:
 - wordpress
 - bootstrap
-- php
-- web-app
 - paypal
 - stripe
 - salesforce
