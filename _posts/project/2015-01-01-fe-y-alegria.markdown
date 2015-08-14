@@ -37,5 +37,6 @@ A wordpress crowdfunding app, also includes a blogging section. And a thoroughly
      autoGrowInput.
 
 **B. Backend/ CMS**
+
    - Wordpress with a custom developed theme along with several 
      custom plugins
