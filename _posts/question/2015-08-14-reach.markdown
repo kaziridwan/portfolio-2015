@@ -1,0 +1,12 @@
+---
+layout: question
+title:  "How can I reach you?"
+date:   2015-04-25 16:54:46
+author: Kazi Ridwan
+categories:
+- question
+---
+You can mail me at ridwan.arefin@gmail.com
+
+But for more convenience you might want to add me on
+skype at ridwan.arefin.
