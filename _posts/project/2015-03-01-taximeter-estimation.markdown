@@ -1,0 +1,36 @@
+---
+layout: project
+title:  "Taximeter Estimation"
+date:   2015-03-01 00:00:00
+categories:
+- project
+img: portfolio_07.jpg
+thumb: thumb02.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+client: Yasuyuki Nakamura
+website: http://taximeter-estimation.appspot.com
+---
+####Taximeter estimation
+A simple web app (also to be ported for mobiles) for estimating taxi fares in Japan. 
+
+####Contributions
+- Frontend Designing
+- Frontend Development
+- Code Maintainance, Issue tracking and project management
+- Api integrations
+   Google Map API
+   Google Map Distance Matrix 
+
+####Technologies used
+##A. Frontend
+   - Custom Bootstrap theme
+   - Angularjs for better structure
+   - Geocomplete JQuery plugin for an excellent user experience
+   - Wireframing on Adobe Illustrator
+
+####Methodologies
+1. Frontend Development
+   - Maintained the project with git in an agile workflow
