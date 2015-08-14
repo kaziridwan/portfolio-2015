@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Taximeter Estimation"
+title:  "TaxiTrip"
 date:   2015-03-01 00:00:00
 categories:
 - project
@@ -11,7 +11,7 @@ carousel:
 client: Taxitrip Tokyo
 website: http://taximeter-estimation.appspot.com
 ---
-####Taximeter estimation
+####TaxiTrip Japan
 A simple web app (also to be ported for mobiles) for estimating taxi fares in Japan. 
 
 ####Contributions
