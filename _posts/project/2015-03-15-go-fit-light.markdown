@@ -4,6 +4,13 @@ title:  "GoFit Light"
 date:   2014-03-15 00:00:00
 categories:
 - project
+tags:
+- laravel
+- REST
+- api-development
+- admin-panel
+- push-notification
+- gcm
 img: 04_GoFitLight.jpg
 thumb: 04_GoFitLight.jpg
 carousel:

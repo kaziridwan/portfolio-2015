@@ -6,8 +6,13 @@ categories:
 - project
 tags:
 - wordpress
-- multilingual
+- bootstrap
+- php
 - web-app
+- paypal
+- stripe
+- salesforce
+- google-maps
 img: 01_FeYAlegria.jpg
 thumb: 01_FeYAlegria.jpg
 carousel:

@@ -4,6 +4,13 @@ title:  "Music App"
 date:   2015-04-01 00:00:00
 categories:
 - project
+tags:
+- laravel
+- REST
+- api-development
+- admin-panel
+- push-notification
+- gcm
 img: 05_BanglaMusic.jpg
 thumb: 05_BanglaMusic.jpg
 carousel:
@@ -32,7 +39,7 @@ A music subscription app for Lyl2u. I developed the admin panel and API endpoint
 1. Backend Development
 
    - Maintained the project with git in an agile workflow
-   
+
 2. API Development
 
    - Followed strict guidelines to implement the API in REST-ful manner

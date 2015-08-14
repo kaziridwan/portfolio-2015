@@ -4,6 +4,12 @@ title:  "TaxiTrip"
 date:   2015-03-01 00:00:00
 categories:
 - project
+tags:
+- frontend-development
+- bootstrap
+- material-design
+- google-maps
+- HTML5
 img: 02_TaxiTrip.jpg
 thumb: 02_TaxiTrip.jpg
 carousel:
