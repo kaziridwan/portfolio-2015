@@ -24,6 +24,7 @@ An online radio app on android platform for digi malaysia. I developed the admin
 
 ####Technologies used
 **A. Backend**
+
    - Laravel PHP framework on LEMP stack and several libraries
 
 ####Methodologies

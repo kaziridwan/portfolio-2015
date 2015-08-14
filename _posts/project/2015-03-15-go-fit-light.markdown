@@ -25,14 +25,19 @@ endpoint.
 
 ####Technologies used
 
-A. Backend
+**A. Backend**
+
    - Laravel PHP framework on LEMP stack and several libraries
+
+**B. Frontend**
+
+   - Bootstrap framework
 
 ####Methodologies
 
 1. Backend Development
-   - Maintained the project with git in an agile workflow
-   
+	- Maintained the project with git in an agile workflow
+
 2. API Development
    - Followed strict guidelines to implement the API in REST-ful manner
 
