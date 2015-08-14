@@ -2,9 +2,9 @@
 
 # Site settings
 title: Kazi Ridwan
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "An app developer, helping you to make your app from dreams to reality."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
+baseurl: "/" #important: start with /
 url: "http://kaziridwan.github.io"
 
 # Build settings
@@ -49,43 +49,43 @@ tel: +880 1683-24-25-66
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
     
 # Members information. Shown on About page.
-members:
-  - name: Mark Webber
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+# members:
+#   - name: Mark Webber
+#     position: CEO
+#     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+#     img: team01.jpg
+#     social:
+#       - title: envelope #use for email address
+#         url: mailto:name@domain.com
+#       - title: twitter
+#         url: http://twitter.com/handle
+#   - name: Paul Jameson
+#     position: Lead Designer
+#     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+#     img: team02.jpg
+#     social:
+#       - title: envelope #use for email address
+#         url: mailto:name@domain.com
+#       - title: twitter
+#         url: http://twitter.com/handle
+#   - name: Laura Sommers
+#     position: Lead Developer
+#     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+#     img: team03.jpg
+#     social:
+#       - title: envelope #use for email address
+#         url: mailto:name@domain.com
+#       - title: twitter
+#         url: http://twitter.com/handle
+#   - name: Martin Blunt
+#     position: Marketing
+#     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+#     img: team04.jpg
+#     social:
+#       - title: envelope #use for email address
+#         url: mailto:ridwan.arefin@gmail.com
+#       - title: twitter
+#         url: http://twitter.com/handle
     
 # Clients information. Shown on Home and About pages.
 clients:
