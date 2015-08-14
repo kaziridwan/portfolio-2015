@@ -4,7 +4,7 @@ title:  "GoFit Light"
 date:   2014-03-15 00:00:00
 categories:
 - project
-img: portfolio_04.jpg
+img: 04_GoFitLight.jpg
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
