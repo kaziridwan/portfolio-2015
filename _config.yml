@@ -92,7 +92,7 @@ clients:
   - name: Telenor Group
     img: client01.png
   - name: DIGI
-    img: digi-malaysia.jpg
+    img: digi.jpg
   - name: GoFit Light
     img: client03.jpg
   - name: Fe y Alegria
