@@ -4,6 +4,10 @@ title:  "Fe y Alegria : Wordpress Web App"
 date:   2015-01-01 00:00:00
 categories:
 - project
+tags:
+- wordpress
+- multilingual
+- web-app
 img: 01_FeYAlegria.jpg
 thumb: 01_FeYAlegria.jpg
 carousel:
