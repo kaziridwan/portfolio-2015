@@ -4,7 +4,7 @@ title:  "Fe y Alegria : Wordpress Web App"
 date:   2015-01-01 00:00:00
 categories:
 - project
-img: portfolio_06.jpg
+img: portfolio_01.jpg
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
