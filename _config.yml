@@ -4,7 +4,7 @@
 title: Kazi Ridwan
 description: "An app developer, helping you to make your app from dreams to reality."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/" #important: start with /
+baseurl: "" #important: start with /
 url: "http://kaziridwan.github.io"
 
 # Build settings
