@@ -19,15 +19,18 @@ An online radio app on android platform for digi malaysia. I developed the admin
 - Backend Development
 - API development, maintaining the REST-ful standard
 - Api integrations
-   GCM push notification
-   Telenor API (for payments)
+	- GCM push notification
+	- Telenor API (for payments)
 
 ####Technologies used
-##A. Backend
+**A. Backend**
    - Laravel PHP framework on LEMP stack and several libraries
 
 ####Methodologies
+
 1. Backend Development
-   - Maintained the project with git in an agile workflow
+
+	- Maintained the project with git in an agile workflow
 2. API Development
-   - Followed strict guidelines to implement the API in REST-ful manner 
+
+	- Followed strict guidelines to implement the API in REST-ful manner 
