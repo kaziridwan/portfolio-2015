@@ -4,7 +4,7 @@ title:  "TaxiTrip"
 date:   2015-03-01 00:00:00
 categories:
 - project
-tags:
+project-tags:
 - frontend-development
 - bootstrap
 - material-design

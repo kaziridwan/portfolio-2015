@@ -4,7 +4,7 @@ title:  "GoFit Light"
 date:   2014-03-15 00:00:00
 categories:
 - project
-tags:
+project-tags:
 - laravel
 - REST
 - api-development
