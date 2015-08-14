@@ -6,7 +6,7 @@ author: Kazi Ridwan
 categories:
 - question
 ---
-You can mail me at ridwan.arefin@gmail.com
+You can mail me at **ridwan.arefin@gmail.com**
 
 But for more convenience you might want to add me on
-skype at ridwan.arefin.
+skype at **ridwan.arefin**.
